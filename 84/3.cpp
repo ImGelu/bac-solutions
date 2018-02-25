@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+
+    int n, a[100], b[100], c[100];
+
+    cin>>n;
+
+    for(int i=1; i<=n; i++) cin>>a[i];
+    for(int i=1; i<=n; i++){
+        cin>>b[i];
+        c[i]=a[i]+b[i];
+    }
+
+    for(int i=1; i<=n; i++) cout<<c[i]<<" ";
+
+    return 0;
+}
