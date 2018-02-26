@@ -1,10 +1,10 @@
 # Rezolvările subiectelor de Bacalaureat
 
-[RO] Acestea sunt soluțiile mele pentru subiectele și modelele propuse pentru Examenul de Bacalaureat, subiectul II (5) și subiectul III (3 și 4), începând cu cele din 2009 până în 2017.
+[RO] Acestea sunt soluțiile mele pentru subiectele și modelele propuse pentru Examenul de Bacalaureat, subiectul II (5) și subiectul III (3 și 4), începând cu cele din 2009 până în 2017, profilul Matematică-Informatică (intensiv), limbajul C++.
 
 Formatul este acesta:
 - Anul
-  - Numărul subiectuluui
+  - Numărul subiectului
     - 3.cpp (_Subiectul III, exercițiul 3_)
     - 4.cpp (_Subiectul III, exercițiul 4_)
     - 5.cpp (_Subiectul II, exercițiul 5_)
@@ -12,10 +12,10 @@ Formatul este acesta:
 Puteți să descărcați toate subiectele în fișierul PDF aflat în fiecare folder.
 
 Dacă găsiți probleme în cod, deschideți un issue ticket! :grinning:
-    
---------------------------------------------------------------------------------------------------------------------------------------
 
-[EN] These are my solutions for the Bacalaureat problems given out as models or subjects starting 2009 to 2017.
+# Solutions for the Bacalaureat problems
+
+[EN] These are my solutions for the Bacalaureat problems given out as models or subjects starting 2009 to 2017 (Matematică-Informatică intensiv, C++)
 
 The repo's structure is:
 - Year
