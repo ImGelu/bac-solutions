@@ -1,4 +1,4 @@
-# bac-solutions
+# Rezolvările subiectelor de Bacalaureat
 
 [RO] Acestea sunt soluțiile mele pentru subiectele și modelele propuse pentru Examenul de Bacalaureat, subiectul II (5) și subiectul III (3 și 4), începând cu cele din 2009 până în 2017.
 
