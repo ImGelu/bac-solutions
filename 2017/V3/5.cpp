@@ -12,10 +12,7 @@ int main()
     cuvant=strtok(s, " ");
 
     while(cuvant!=NULL){
-        for(int i=0; i<strlen(cuvant); i++)
-            if(cuvant[i]=='.') strcpy(cuvant, "");
-
-        cout<<cuvant<<" ";
+        if(strstr(cuvant, "DO") || strstr(cuvant, "RE") || strstr(cuvant, "MI") || strstr(cuvant, "FA") || strstr(cuvant, "SOL") || strstr(cuvant, "LA") || strstr(cuvant, "SI")) cout<<cuvant<<"\n";
         cuvant=strtok(NULL, " ");
     }
 

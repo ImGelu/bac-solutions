@@ -12,9 +12,7 @@ int main()
     cuvant=strtok(s, " ");
 
     while(cuvant!=NULL){
-        for(int i=0; i<strlen(cuvant); i++)
-            if(cuvant[i]=='.') strcpy(cuvant, "");
-
+        if(strlen(cuvant)%2==0) strcpy(cuvant, "#");
         cout<<cuvant<<" ";
         cuvant=strtok(NULL, " ");
     }
